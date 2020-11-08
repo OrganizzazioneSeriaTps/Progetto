@@ -1,0 +1,45 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100%;
+    display: grid;
+}
+
+.immagine{
+    height: 40%;
+}
+
+.barnav{
+    width: 100%;
+    padding: 0;
+    overflow: hidden;;
+    border: 1px solid;
+}
+
+.presentazione{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lezioni{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lateralbar{
+    border: 1px solid;
+}
+
+.fine{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+}
+
+th{
+    background-color: coral;
+}
